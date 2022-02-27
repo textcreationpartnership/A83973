@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands miserie, if not prevented by the speedie remedie of a happie union between His Maiestie and this Parliament. By His Majesties concurrance with them, to discard all false flattering Achitophel-cavaliers, proud ambitious prelates, and blood-suck thirsting church papists, as well as profest, about His Majesties sacred person and councels. Written by a well-wisher to His King and countrey. Together with the copie of a letter sent from a friend in Lancashire, to a gentleman in Grays-Inne-Lane. As also an order from both Houses of Parliament to the sheriffs of York and Lincolnshire for suppressing of forces that disturbe the peace of the kingdom. Jo. Brown, Cler. Parl.</title>
+            <author>Well-wisher to his King and countrey.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83973</idno>
+            <idno type="STC">Wing E2996</idno>
+            <idno type="STC">Thomason E112_30</idno>
+            <idno type="STC">ESTC R20120</idno>
+            <idno type="EEBO-CITATION">99861735</idno>
+            <idno type="PROQUEST">99861735</idno>
+            <idno type="VID">113878</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83973)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113878)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E112[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands miserie, if not prevented by the speedie remedie of a happie union between His Maiestie and this Parliament. By His Majesties concurrance with them, to discard all false flattering Achitophel-cavaliers, proud ambitious prelates, and blood-suck thirsting church papists, as well as profest, about His Majesties sacred person and councels. Written by a well-wisher to His King and countrey. Together with the copie of a letter sent from a friend in Lancashire, to a gentleman in Grays-Inne-Lane. As also an order from both Houses of Parliament to the sheriffs of York and Lincolnshire for suppressing of forces that disturbe the peace of the kingdom. Jo. Brown, Cler. Parl.</title>
+                  <author>Well-wisher to his King and countrey.</author>
+                  <author>Tyrer, George.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. P. and M. S. in Goldsmiths Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 18. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed by: George Tyrer.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Lincolnshire (England) --  History --  Early works to 1800.</term>
+               <term>Yorkshire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113878:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <p>ENGLANDS MISERIE, IF NOT PREVENTED by the ſpeedie remedie of a happie union between His MAIESTIE and this PARLIAMENT.</p>
+            <p>By His <hi>Majeſties</hi> concurrance with them, to diſcard all falſe flattering <hi>Achitophel</hi>-Cavaliers, proud ambitious Prelates, and blood<g ref="char:EOLhyphen"/>ſuck thirſting Church Papiſts, as well as profeſt about His <hi>Majeſties</hi> ſacred <hi>Perſon and Councels.</hi>
+            </p>
+            <p>Written by a Well-wiſher to His King and <hi>Countrey.</hi>
+            </p>
+            <p>Together with the Copie of a Letter ſent from a friend in <hi>Lancaſhire,</hi> to a Gentleman in Grayſ-Inne-Lane.</p>
+            <p>As alſo an Order from both Houſes of Parliament to the Sheriffs of <hi>York</hi> and <hi>Lincolnſhire</hi> for ſuppreſſing of Forces that diſturbe the Peace of the Kingdom.</p>
+            <p>Jo. Brown, Cler. Parl.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>T. P.</hi> and <hi>M. S.</hi> in Goldſmiths Alley. <hi>Auguſt</hi> 18. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="political_tract">
+            <pb facs="tcp:113878:2"/>
+            <!-- PDF PAGE 32 -->
+            <pb n="2" facs="tcp:113878:2"/>
+            <!-- PDF PAGE 32 -->
+            <head>
+               <hi>ENGLANDS</hi> MISERIE.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">E</seg>Ngland</hi> never lay panting as at this preſent by reaſon of His Majeſties long abſence from his great Counſel of this Kingdom, which is truly conceived to be the cauſe of all the diſturbance of this Common-wealth. And theſe Machivillians (or rather matchleſſe-villains) that profeſſe themſelves to be friends, when indeed they are fiends, pretending love, intending miſchief to his Maieſtie and this Kingdom; having words as ſoft as butter or oyl, when their greateſt Amitie, is but diſſembled Enmitie, with two faces under one hood, like <hi>Janus;</hi> and two hearts in a breſt like <hi>Magus, Adulatores amici in obſequies, hoſtes in animis, compti in verbis, turpes in factis, laeti ad proſpera, f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>gil<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ad adverſa inflati ad obſequia, anxii ad opprobria, immoderati ad Gaudia, fa<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iles ad humana, diffi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ad honeſta:</hi> Their <hi>Avès</hi> are <hi>vaes</hi> to this troubled Nati<g ref="char:EOLhyphen"/>on, and though they ſpeak favourably we ought not to beleeve them.</p>
+            <p>Who murthered <hi>Ceſar</hi> that worthy Emperour in the Senate houſe at Rome? <hi>Brutus</hi> and <hi>Caſsius</hi> thoſe flatterers whom he loved moſt. Who poiſoned that
+<pb n="4" facs="tcp:113878:3"/>
+               <!-- PDF PAGE 33 -->mightie Conquerour <hi>Alexander</hi> in the midſt of his triumphs at Babylon? Thoſe that flattered him moſt, his own cup-bearer and kinſman <hi>Antipater:</hi> Who betrayed Chriſt, God and Man, unto the Scribes and Phariſees? his own purſe-bearer, that flattering <hi>Judas</hi> imbracing and kiſſing him as Flat<g ref="char:EOLhyphen"/>terers uſe to do. They find it an eaſie way to deceive by friendſhip, when indeed they make themſelves odious to the whole world, being in the end (by all their plots and contrivances) found ayming at our lives, ſhooting at our goods, and wounding our good names.</p>
+            <p>I have read that King <hi>Xerxes</hi> marching towards the Greeks with a huge Armie of Souldiers, called ſome of this kind of Paraſites to him and demand<g ref="char:EOLhyphen"/>ed what was to be moſt feared in his Iourney.</p>
+            <p>One ſaith, I do fear that when the Greeks do hear of your power, they will flie and not abide your band.</p>
+            <p>Another ſaid, he doubted all <hi>Greece</hi> was not able to lodge them, or receive them into their Cities.</p>
+            <p>A third, That he feared moſt that the Ocean was not enough for them to paſſe over.</p>
+            <p>A fourth feared the Aire had not roome enough for the Arrows which they ſhould ſhoot off.</p>
+            <p>The King by this being extremly puffed up with Pride, demanded at laſt of a certain Philoſopher,
+<pb n="5" facs="tcp:113878:3"/>
+               <!-- PDF PAGE 33 -->named <hi>Damaſcerus,</hi> what he doubted moſt in that war. The thing that I moſt fear (ſaith he is this, that theſe Flatterers will deceive you. So if his Ma<g ref="char:EOLhyphen"/>ieſtie will be pleaſed to adviſe with she great Coun<g ref="char:EOLhyphen"/>ſell of this Kingdom, we ſhall not need to fear a Civill war in <hi>England,</hi> nor the Power of any for<g ref="char:EOLhyphen"/>raigne Foe; But otherwiſe if the King will ſtill hearken to theſe flattering <hi>Achitophels,</hi> proud Pre<g ref="char:EOLhyphen"/>lates and Papiſts, I feare they will doe this King<g ref="char:EOLhyphen"/>dome more harme by their whiſperings of (Prero<g ref="char:EOLhyphen"/>gative) and (honour) in Princes eares, than any enemie forraigne or domeſtique can doe by their weapons.</p>
+            <p>The Citie <hi>Troy</hi> which <hi>Agamemnon</hi> in ten whole yeares could not ſubdue, yet <hi>Sinon</hi> with his flatte<g ref="char:EOLhyphen"/>rie allured the mind of King <hi>Priamus,</hi> deceived the Nobles, and inticed the Citizens by his adulation, to their utter ruine and confuſion. Who could move <hi>Caeſar</hi> ſo much to any thing as <hi>Curio</hi> the Pa<g ref="char:EOLhyphen"/>raſite? Not <hi>Pompeius</hi> his Sonne in Law, nor his Daughter <hi>Julia,</hi> nor all the Senators of <hi>Rome</hi> might make <hi>Caeſar</hi> friend or foe ſo much as <hi>Curio.</hi> And who have for theſe 16 yeares and ſtill doe ſeeke the utter ruine and ſubverſion of this Nation? But <hi>Fin<g ref="char:EOLhyphen"/>ches, Windebanks, Lands,</hi> &amp;c. who ſpeaking againſt their Conſciences, to maintaine Poperie and ſuper<g ref="char:EOLhyphen"/>ſtition, perſwade his Majeſtie to remove from his
+<pb n="4" facs="tcp:113878:4"/>
+               <!-- PDF PAGE 34 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:113878:4"/>
+               <!-- PDF PAGE 34 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:113878:5"/>
+               <!-- PDF PAGE 35 -->Great Councell into remote places of this King<g ref="char:EOLhyphen"/>dome for the ſafetie of his Perſon, when as his Ma<g ref="char:EOLhyphen"/>ieſtie would be more ſafe nere his Parliament with one man, than at <hi>Beverley</hi> with all his Cavaliers; and yet ſuch as theſe are ſooner beleeved than they. <hi>Alexanders</hi> followers bare their heads aſide as he did, and ſuch as flattered <hi>Dionyſius</hi> in his owne pre<g ref="char:EOLhyphen"/>ſence, did run and iuſtle one another, and either ſtumble at, or overthrow what ever ſtood afore their feete, to inferre that they were as ſhort-ſighted and pur-blinde as he: And therefore Princes had need of other Councellours (beſides thoſe that are daily with them that would admoniſh them frank<g ref="char:EOLhyphen"/>ly, gravely, and ſincerely, and that would counſell them faithfully; for as much as there is ſcarce any one in their Courts that do not run after the ſplen<g ref="char:EOLhyphen"/>dour of their proſperitie, and regard his owne par<g ref="char:EOLhyphen"/>ticular profit.</p>
+            <p>And what Councell can be more fit for Princes to harken too, than the great Councell of the King<g ref="char:EOLhyphen"/>dome? What Councell ſo free from flattery, bribe<g ref="char:EOLhyphen"/>ry, ayming at their owne ends as they? Who durſt have told his Majeſtie of the illegalitie of Ship-mo<g ref="char:EOLhyphen"/>ney, of the ſeverall grievances of Courts, of Starre<g ref="char:EOLhyphen"/>chamber, High Commiſſion, Court of Honour? Who durſt have queſtioned the Delinquents that were corrupt Iudges in theſe ſeverall Courts? Who
+<pb n="7" facs="tcp:113878:5"/>
+               <!-- PDF PAGE 35 -->durſt have ſpoke for the iuſt Libertie of the Sub<g ref="char:EOLhyphen"/>iect, but he ſhould have beene called in queſtion for ſpeaking againſt his Maieſties Prerogative in Star-Chamber any time theſe ſixteene yeares? And who ſtand or ever ſtood more for his Maieſties iuſt Prerogative, honour, and ſafetie, than they have done? Certainly, no age can parallell their care, paines, and dangers, they have and doe undergoe for the ſafetie of King and Kingdome.</p>
+            <p>It then behoves the Gentry and Commons of this Kingdome to maintaine this Parliament a<g ref="char:EOLhyphen"/>gainſt all oppoſers, and couragiouſly, if they (for the good of King and Kingdome command) ha<g ref="char:EOLhyphen"/>zard their deareſt lives, to arreſt theſe flattering Councellours, and bring them from the preſence of the King, that his Throne may be eſtabliſhed in Righteouſneſſe.</p>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR.</salute>
+            </opener>
+            <p>VVE are very much perplexed in our Countrey with divers fears and jealouſies; fain would many of the Gentrie and moſt of the Commons obey the Parliaments Ordinance of the <hi>Militia,</hi> but the Lord <hi>Strange</hi> doth ſo thunder amongſt us with his Commiſſions of Array, and out Papiſts grow ſo cunning, that moſt of them come to Church and take the Oath of Allegiance and Supremacie; That we are all at a ſtand, we are very fearfull of <hi>Iriſh</hi> Com<g ref="char:EOLhyphen"/>manders
+<pb n="8" facs="tcp:113878:6"/>
+               <!-- PDF PAGE 36 -->to be landed at <hi>Farmby</hi> this next week to ioyn with theſe Church Papiſts I am ſure for no good; But to promote the faction about his Majeſtie: whereof, if his Ma<g ref="char:EOLhyphen"/>jeſtie were truly informed, I beleeve that he would admit no ſuch perſons about him, There was a ſtrange Monſter taken neer Toxteth-Parke by <hi>Miles Mather</hi> and his man, about the bigneſſe of a child of foure yeers old, and like a child in ſhape from the head to the navell of the belly, but very hairie, his thighes, legs and feer were like braſſe as far as he could conceive: which the ſaid <hi>Mather</hi> taking into his armes, thinking it had been alive, and left upon the Sea<g ref="char:EOLhyphen"/>ſhore by ſome poore Traveller out of <hi>Ireland,</hi> covered it with his cloak, thinking to have carried it to <hi>Liverpoole,</hi> and as ſoon as it received the leaſt heat it wept and vaniſh<g ref="char:EOLhyphen"/>ed away to his great amazement and wonder. Since which time the ſaid <hi>Mather</hi> hath been frantique, and is now in cure at Orms kirke under Doctor <hi>Shaw.</hi> This is all the news and wonders we have for the preſent with us, God turn all to the beſt. Sir I am</p>
+            <closer>
+               <dateline>Leverpool, <date>14. Auguſt 1642.</date>
+               </dateline>
+               <signed>Your loving friend to ſerve you, <hi>George Tyrer.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_order">
+            <p>ORdered by the Lords and Commons in Parliament that the Sheriffes of the County of <hi>York</hi> and <hi>Lincolne,</hi> and likewiſe the Lords Lieutenants of the ſaid Counties, and in their abſence, their Deputies allowed by Parliament, and the Juſtices of Peace, and all other his Majeſties Officers ſhall ſuppreſſe all forces that ſhall be raiſed, or gathered together in thoſe Counties, either to force the Town of <hi>Hall,</hi> to ſtop the paſſages to, and from the ſame; or in any other way to diſturbe the peace of the Kingdom.</p>
+            <closer>
+               <signed>Jo. Brown Cler. Parl.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
